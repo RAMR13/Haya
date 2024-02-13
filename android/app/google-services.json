@@ -1,0 +1,125 @@
+{
+  "project_info": {
+    "project_number": "381417934476",
+    "firebase_url": "https://hayaprojectfinal-default-rtdb.firebaseio.com",
+    "project_id": "hayaprojectfinal",
+    "storage_bucket": "hayaprojectfinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381417934476:android:ac2b6bcedb4c5bb94375a9",
+        "android_client_info": {
+          "package_name": "com.Haya99.test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-lUm6MYg7RmzHqsH1EJdyzMSFWu12Uus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381417934476:android:09112624413e0a674375a9",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-lUm6MYg7RmzHqsH1EJdyzMSFWu12Uus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381417934476:android:738203f27c4bc5a24375a9",
+        "android_client_info": {
+          "package_name": "com.example.ghadeerflutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-lUm6MYg7RmzHqsH1EJdyzMSFWu12Uus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381417934476:android:741c5f2c743546714375a9",
+        "android_client_info": {
+          "package_name": "com.example.haya_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-lUm6MYg7RmzHqsH1EJdyzMSFWu12Uus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381417934476:android:fe3ec9ca406c93cd4375a9",
+        "android_client_info": {
+          "package_name": "com.example.hayaprojectfinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-lUm6MYg7RmzHqsH1EJdyzMSFWu12Uus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381417934476:android:bc6a72c420af26304375a9",
+        "android_client_info": {
+          "package_name": "com.example.tst"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-lUm6MYg7RmzHqsH1EJdyzMSFWu12Uus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
