@@ -18,6 +18,15 @@ https://github.com/RAMR13/Haya/assets/139177369/48cf27a3-f318-4f18-adb9-884bec69
 
 <img src="https://github.com/RAMR13/Haya/assets/139177369/d9e2a19a-474b-489e-8298-725b13559d31" width="400" height="889">
 
+<img src="https://github.com/RAMR13/Haya/assets/139177369/89789785-98d4-4fa2-a970-05964167bd44" width="400" height="889">
+
+<img src="https://github.com/RAMR13/Haya/assets/139177369/cf155fd2-0828-4176-a4e7-a725ac922265" width="400" height="889">
+
+<img src="https://github.com/RAMR13/Haya/assets/139177369/1943aae3-723a-4d41-bd6d-4b39ea1be8fe" width="400" height="889">
+
+<img src="https://github.com/RAMR13/Haya/assets/139177369/56ed4214-cd08-4cb3-8eb6-f872502a8087" width="400" height="889">
+
+
 https://github.com/RAMR13/Haya/assets/139177369/5d06a5db-2468-4855-bcf7-b9ad55388517
 
 
